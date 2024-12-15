@@ -1,7 +1,3 @@
+# [![Test](https://yastatic.net/naydex/yandex-search/8eIz2DX38/14b217ORohHK/cuEHczFsJIZtMCYfnKkHmMn4cfZZKe5NKxttF87wAS8clRtwDQ8E9lmbnXgRMQsBG9E08Oh2GNZ2NkqWhdNg3kdw5gMwHHWTSURn2jl4c0zcnbGmaIhrKYtujDeOlIPqaZfYYo4cJ1XrjfofpqXuFJ7U8YEpQk4gg)](https://t.me/walld3v_bot/bio)
 
-___
-
-
-___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walld3v&show_icons=true&theme=tokyonight)
-![Test](https://s05.flagcounter.com/count/GPJD/bg_000000/txt_FFFFFF/border_020A1F/columns_3/maxflags_12/viewers_Stats/labels_1/pageviews_1/flags_0/percent_0/)
